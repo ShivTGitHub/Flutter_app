@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+🎉 Your collaborator will now do this:
+
+Clone your repo:
+
+git clone https://github.com/YOUR_USERNAME/face_attendance_app.git
+
+
+Enter the folder:
+
+cd face_attendance_app
+
+
+Get dependencies:
+
+flutter pub get
+
+
+Run:
+
+flutter run
